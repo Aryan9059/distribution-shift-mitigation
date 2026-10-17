@@ -1,0 +1,34 @@
+  adult seed=0: 92 rows in 83s
+  adult seed=1: 92 rows in 73s
+  adult seed=2: 92 rows in 96s
+  adult seed=3: 92 rows in 138s
+  adult seed=4: 92 rows in 209s
+  covertype seed=0: 92 rows in 175s
+  covertype seed=1: 92 rows in 151s
+  covertype seed=2: 92 rows in 137s
+  covertype seed=3: 92 rows in 131s
+  covertype seed=4: 92 rows in 145s
+  acs:CA>WY seed=0: 4 rows in 24s
+  acs:CA>WY seed=1: 4 rows in 19s
+  acs:CA>WY seed=2: 4 rows in 17s
+  acs:CA>WY seed=3: 4 rows in 17s
+  acs:CA>WY seed=4: 4 rows in 17s
+Downloading data for 2018 1-Year person survey for MS...
+  acs:CA>MS seed=0: 4 rows in 23s
+  acs:CA>MS seed=1: 4 rows in 19s
+  acs:CA>MS seed=2: 4 rows in 272s
+  acs:CA>MS seed=3: 4 rows in 21s
+  acs:CA>MS seed=4: 4 rows in 18s
+Downloading data for 2018 1-Year person survey for NY...
+  acs:CA>NY seed=0: 4 rows in 52s
+  acs:CA>NY seed=1: 4 rows in 87s
+  acs:CA>NY seed=2: 4 rows in 76s
+  acs:CA>NY seed=3: 4 rows in 79s
+  acs:CA>NY seed=4: 4 rows in 79s
+Downloading data for 2018 1-Year person survey for TX...
+  acs:CA>TX seed=0: 4 rows in 90s
+  acs:CA>TX seed=1: 4 rows in 83s
+  acs:CA>TX seed=2: 4 rows in 82s
+  acs:CA>TX seed=3: 4 rows in 87s
+  acs:CA>TX seed=4: 4 rows in 81s
+wrote results\phase1.csv
