@@ -1,0 +1,4 @@
+dataset,seed,shift,severity,shift_type,acc_source_val,acc_true,acc_atc,acc_topk,acc_randk
+acs:CA>NY,1,real,0.0,real,0.8086,0.789,0.787,0.82,0.8
+acs:CA>NY,2,real,0.0,real,0.8081,0.78725,0.795,0.73,0.72
+acs:CA>NY,3,real,0.0,real,0.8069,0.78575,0.787,0.81,0.77

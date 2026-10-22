@@ -2,3 +2,10 @@
 __pycache__/
 data/
 *.pyc
+tools/
+results/quick/
+results/log_*.txt
+results/err_*.txt
+report/*.aux
+report/*.log
+report/*.out

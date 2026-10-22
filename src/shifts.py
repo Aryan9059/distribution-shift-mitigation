@@ -7,7 +7,11 @@ WHY a simulator: with simulated shifts we know the ground truth (which kind of s
 how strong), so we can later check whether detectors and adaptation methods behave.
 """
 import numpy as np
-import pandas as pd
+
+# Which family each simulated shift belongs to (the ground truth for shift-type diagnosis).
+# noise and drift change P(x) only, so they are covariate shifts that move rows off the source support.
+SHIFT_TYPE = {"identity": "none", "covariate": "covariate", "noise": "covariate", "drift": "covariate",
+              "label": "label", "concept": "concept", "combo": "mixed", "real": "real"}
 
 
 def _numeric_cols(X):
